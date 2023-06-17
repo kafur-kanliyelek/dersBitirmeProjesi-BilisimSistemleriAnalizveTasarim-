@@ -4,6 +4,7 @@ Bu proje Bilisim Sistemleri Analiz ve Tasarim dersi bitirme projesidir.
 Çalışanlar öğretmen rolündedir.
 Çalışanların toplantılara ve derslere ne kadar katıldığının yoklaması alınabilmektedir.
 Çalışanların derslere ve toplantılara katılımı grafiklerle görüebilmektedir. 
+Zaman yetersizliğinden dolayı yoklamayı qr kodla değil, butonlarla alacak bir sistem tasarladım.
 
 
 ![vtYapısıMYSQL](https://github.com/kafur-kanliyelek/dersBitirmeProjesi-BilisimSistemleriAnalizveTasarim-/assets/77580894/c6c8bfcd-5ba9-4a13-bac4-e60f8a28cdf9)
