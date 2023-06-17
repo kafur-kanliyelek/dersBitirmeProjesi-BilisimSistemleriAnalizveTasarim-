@@ -5,3 +5,5 @@ Bu proje Bilisim Sistemleri Analiz ve Tasarim dersi bitirme projesidir.
 Çalışanların toplantılara ve derslere ne kadar katıldığının yoklaması alınabilmektedir.
 Çalışanların derslere ve toplantılara katılımı grafiklerle görüebilmektedir. 
 
+![Alt Text](vtYapısıMYSQL.png)
+
